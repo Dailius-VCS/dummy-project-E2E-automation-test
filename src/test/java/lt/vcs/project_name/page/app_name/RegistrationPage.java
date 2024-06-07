@@ -7,4 +7,8 @@ public class RegistrationPage {
         Common.setUpChrome();
         Common.openUrl(url);
     }
+
+    public static void register(String username, String password) {
+        // Do registration
+    }
 }

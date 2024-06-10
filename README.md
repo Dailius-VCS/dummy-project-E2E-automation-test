@@ -38,5 +38,5 @@ mvn clean test
 ```
 
 ### Reports:
-📊 TestNG reports will be generated in target/surefire-reports/.
+📊 TestNG reports will be generated in target/surefire-reports/.  
 📸 Screenshots will be saved in target/screenshots/.

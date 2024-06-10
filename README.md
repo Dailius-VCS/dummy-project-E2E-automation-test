@@ -6,10 +6,9 @@
 
 * 💻 Cross-browser testing (Chrome, Firefox, Edge)
 * ⚙️ TestNG for test execution and reporting
-* 🧩 POM for maintainability and code reusability
-* 🧪 Data-driven testing using Excel
-* 📸 Screenshots on test failures
-* 📝 Detailed logging
+* 🧪 Test cases for [List of UI Features]
+* 🧩 Page Object Model for maintainability
+* 📸 Screenshots and logging for debugging
 
 ### Prerequisites:
 
